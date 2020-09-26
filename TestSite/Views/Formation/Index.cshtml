@@ -1,0 +1,14 @@
+﻿@model List<AvisFormation.data.Formation>
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <h2>Index</h2>
+
+    @foreach (var formation in Model)
+    {
+        <div><span> Le nom de la formation est</span><span>@formation.Nom</span></div>
+        <div><span>L url de la formation</span><span>@formation.url</span></div>
+        <div><span>La description de la formation</span><span>@formation.Description</span></div>
+        <div><span>Le NomSeao de chaque formation est</span><span>@formation.NomSeo</span></div>
+    }

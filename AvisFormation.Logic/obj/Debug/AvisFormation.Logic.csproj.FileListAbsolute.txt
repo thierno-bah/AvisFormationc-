@@ -1,0 +1,17 @@
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\AvisFormation.Logic.dll.config
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\AvisFormation.Logic.dll
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\AvisFormation.Logic.pdb
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\AvisFormation.data.dll
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\EntityFramework.dll
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\AvisFormation.data.pdb
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\AvisFormation.data.dll.config
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\EntityFramework.xml
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\obj\Debug\AvisFormation.Logic.csprojAssemblyReference.cache
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\obj\Debug\AvisFormation.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\obj\Debug\AvisFormation.Logic.csproj.CopyComplete
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\obj\Debug\AvisFormation.Logic.dll
+C:\Users\Thierno\Desktop\JOBS\AboubarAlpha\TEST\AvisFormation.Logic\obj\Debug\AvisFormation.Logic.pdb
